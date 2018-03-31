@@ -74,7 +74,7 @@ Please look at `examples` folder for more details.
 - `1.0.0` Class Detection, Input helpers, SEO detection methods, write tests for main features.
 - `1.0.1` Enhance detection features, modify `fromFile`, `toFile`. Added test cases on this.
 - `1.0.2` Write README.md, added `examples` for details usage.
+- `1.0.3` Build & Test with Travis CI
 
-# Enhancements
+# Todo
 - Add `eslint` standard to validate syntax.
-- Deploy to Travis CI
