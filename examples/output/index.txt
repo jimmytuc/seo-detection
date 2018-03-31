@@ -1,0 +1,8 @@
+Not found meta description in this HTML
+Meta keywords missing content in this HTML
+Meta robots missing content in this HTML
+<h1> should be used only 1 in the HTML
+There are 1 <img> without alt attribute
+There are 2 <img> without alt attribute
+There are 1 <a> without rel attribute
+<strong> should not be more than 1 time(s) in the HTML.
