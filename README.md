@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jimmytuc/seo-detection.svg?branch=master)](https://travis-ci.org/jimmytuc/seo-detection)
+
 # Purpose
 This package is for people who want to scan a HTML file and show all of the SEO defects.
 Write with BabelJs ES6 syntax - have compatibility with all node versions.
